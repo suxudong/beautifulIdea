@@ -1,0 +1,2 @@
+# beautifulIdea
+Theme for idea
